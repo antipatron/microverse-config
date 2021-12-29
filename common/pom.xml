@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.fakecompany</groupId>
     <artifactId>common</artifactId>
-    <version>1.0.0</version>
+    <version>1.2.4</version>
     <name>common</name>
     <description>Common class implementation for microverse</description>
     <properties>
